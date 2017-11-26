@@ -1,0 +1,10 @@
+ Volume in drive C is PC COE
+ Volume Serial Number is AC22-BFAD
+
+ Directory of C:\Users\sekharme\Desktop\My project
+
+11/26/2017  01:08 PM    <DIR>          .
+11/26/2017  01:08 PM    <DIR>          ..
+11/26/2017  01:08 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  271,975,059,456 bytes free
